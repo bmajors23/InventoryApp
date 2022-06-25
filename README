@@ -1,0 +1,11 @@
+Nicholas Bryce Majors
+
+GUI Inventory Management Software
+
+Java, JavaFX, FXML, Scenebuilder
+
+This application allows the user to keep track of inventory in a graphical user interface. 
+
+Parts can be added, modified, and deleted.
+Products, which can parts associated with them, can also be added, modified, and deleted.
+
